@@ -28,7 +28,7 @@ my goal is to implement multi-process support, add a c compiler, a filesystem, a
 
 made with C + assembly &lt;3
 
-![](https://github.com/sarahkittyy/kibby-os/raw/master/docs/bare-screenshot.png =500x)
+<img src="https://github.com/sarahkittyy/kibby-os/raw/master/docs/bare-screenshot.png" width="500" />
 
 #### [voxels](https://github.com/sarahkittyy/voxels)
 
@@ -36,7 +36,7 @@ when i first started learning c++ i always wanted to get into opengl, so i took 
 
 i used that knowledge to create a small little voxel engine (think [minecraft](https://www.minecraft.net/))!
 
-![](https://github.com/sarahkittyy/voxels/raw/master/screenshots/terrain.png =400x)
+<img src="https://github.com/sarahkittyy/voxels/raw/master/screenshots/terrain.png" width="500" />
 
 made with cpp + opengl &lt;3
 
