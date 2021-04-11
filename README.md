@@ -40,13 +40,13 @@ i used that knowledge to create a small little voxel engine (think [minecraft](h
 
 made with cpp + opengl &lt;3
 
-#### [bq-r](https://github.com/sarahkittyy/bq-r)
+<!--#### [bq-r](https://github.com/sarahkittyy/bq-r)
 
 my favorite genre of games as a kid were platformers with level editors!! so when i found out my favorite game from back then, [blockquest](https://blockquest.net), had shut down, i wanted to re-make it
 
 it's currently **WIP**, and i'm developing it side-by-side with a friend of mine ^^
 
-made with cpp + [SFML](https://github.com/SFML/SFML) + [imgui](https://github.com/ocornut/imgui/) + [box2d](https://github.com/erincatto/box2d) &lt;3
+made with cpp + [SFML](https://github.com/SFML/SFML) + [imgui](https://github.com/ocornut/imgui/) + [box2d](https://github.com/erincatto/box2d) &lt;3-->
 
 ## contact
 
