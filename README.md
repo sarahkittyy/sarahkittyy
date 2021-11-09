@@ -1,4 +1,4 @@
-## hi!! i'm sarah (she/her, 19, cs major @ uconn)
+## hi!! i'm sarah (she/her, 20, cs major @ uconn)
 
 welcome to my github!! i started developing around first year of HS as a hobby and it **really** stuck with me ^^;
 
