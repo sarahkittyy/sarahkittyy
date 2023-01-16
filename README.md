@@ -6,11 +6,13 @@ you can take a look around if you want, some of my repos are pretty silly but he
 
 ## notable repos!
 
-#### [sushicat.rocks](https://github.com/sarahkittyy/sushicat.rocks)
+#### [blockquest-remake](https://sarahkittyy.itch.io/blockquest-remake)
 
-a silly lil personal app i made to test out random web dev things, like a sandbox of sorts! no particular theme, i just add things that i feel would be fun to develop, but maybe don't deserve their own repo >w<
+an online level-sharing platformer community. players sign up, build levels, submit them, play eachother's levels, set records, and vote for the best  levels. 
 
-made with vue + mongodb + express + typescript &lt;3
+frontend/game in c++ with SFML, ImGui, backend uses express/postgres/prisma
+ 
+you can find the completely open-source repository [here](https://github.com/sarahkittyy/blockquest-remake)
 
 #### [mrboard.sushicat.rocks](https://github.com/sarahkittyy/mrboard)
 
@@ -47,6 +49,13 @@ my favorite genre of games as a kid were platformers with level editors!! so whe
 it's currently **WIP**, and i'm developing it side-by-side with a friend of mine ^^
 
 made with cpp + [SFML](https://github.com/SFML/SFML) + [imgui](https://github.com/ocornut/imgui/) + [box2d](https://github.com/erincatto/box2d) &lt;3-->
+
+
+#### [sushicat.rocks](https://github.com/sarahkittyy/sushicat.rocks)
+
+a silly lil personal app i made to test out random web dev things, like a sandbox of sorts! no particular theme, i just add things that i feel would be fun to develop, but maybe don't deserve their own repo >w<
+
+made with vue + mongodb + express + typescript &lt;3
 
 ## contact
 
