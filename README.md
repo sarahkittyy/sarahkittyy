@@ -11,8 +11,13 @@ you can take a look around if you want, some of my repos are pretty silly but he
 an online level-sharing platformer community. players sign up, build levels, submit them, play eachother's levels, set records, and vote for the best  levels. 
 
 frontend/game in c++ with SFML, ImGui, backend uses express/postgres/prisma
+
+try it! download the game [here](https://sarahkittyy.itch.io/blockquest-remake)
  
 you can find the completely open-source repository [here](https://github.com/sarahkittyy/blockquest-remake)
+
+![image](https://user-images.githubusercontent.com/31551546/212767911-e8b733ea-af74-4922-9771-7f71f4ec948b.png)
+![image](https://user-images.githubusercontent.com/31551546/212767582-5b8efdfb-067f-4371-a943-686d7cc744c4.png)
 
 #### [mrboard.sushicat.rocks](https://github.com/sarahkittyy/mrboard)
 
