@@ -55,13 +55,16 @@ it's currently **WIP**, and i'm developing it side-by-side with a friend of mine
 
 made with cpp + [SFML](https://github.com/SFML/SFML) + [imgui](https://github.com/ocornut/imgui/) + [box2d](https://github.com/erincatto/box2d) &lt;3-->
 
+#### [p2pg](https://github.com/sarahkittyy/p2pg)
 
-#### [sushicat.rocks](https://github.com/sarahkittyy/sushicat.rocks)
+A 2d top-down multiplayer combat game with a simple gameplay loop. Plays in browser on both mobile and PC.
 
-a silly lil personal app i made to test out random web dev things, like a sandbox of sorts! no particular theme, i just add things that i feel would be fun to develop, but maybe don't deserve their own repo >w<
+Connections are fully peer-2-peer. Uses deterministic gameplay logic to rollback and resimulate the game when opponents go out of sync, leading to a very smooth real-time experience.
 
-made with vue + mongodb + express + typescript &lt;3
+Written in rust with [bevy](bevyengine.org/), and [ggrs](https://github.com/gschup/ggrs/), and compiled to WASM.
+
+<img src="https://github.com/sarahkittyy/p2pg/raw/main/assets/screenshot.png" width="500" />
 
 ## contact
 
-you can email me @ sarahohlin1@gmail.com or add me on discord as `sawahkitty!~<3#3655`
+you can email me @ sarahohlin1@gmail.com or add me on discord as `sarahkittyy`
