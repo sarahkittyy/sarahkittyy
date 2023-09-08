@@ -27,6 +27,16 @@ the game has built-in levels, and user-created levels, but only the default leve
 
 made with vue + mysql + express + typescript + vuetify &lt;3
 
+#### [p2pg](https://github.com/sarahkittyy/p2pg)
+
+A 2d top-down multiplayer combat game with a simple gameplay loop. Plays in browser on both mobile and PC.
+
+Connections are fully peer-2-peer. Uses deterministic gameplay logic to rollback and resimulate the game when opponents go out of sync, leading to a very smooth real-time experience.
+
+Written in rust with [bevy](bevyengine.org/), and [ggrs](https://github.com/gschup/ggrs/), and compiled to WASM.
+
+<img src="https://github.com/sarahkittyy/p2pg/raw/main/assets/screenshot.png" width="500" />
+
 #### [kibby-os](https://github.com/sarahkittyy/kibby-os)
 
 a WIP x86 operating system i'm developing in spare time. currently implements paging, interrupts, key handling, etc.
@@ -46,24 +56,6 @@ i used that knowledge to create a small little voxel engine (think [minecraft](h
 <img src="https://github.com/sarahkittyy/voxels/raw/master/screenshots/terrain.png" width="500" />
 
 made with cpp + opengl &lt;3
-
-<!--#### [bq-r](https://github.com/sarahkittyy/bq-r)
-
-my favorite genre of games as a kid were platformers with level editors!! so when i found out my favorite game from back then, [blockquest](https://blockquest.net), had shut down, i wanted to re-make it
-
-it's currently **WIP**, and i'm developing it side-by-side with a friend of mine ^^
-
-made with cpp + [SFML](https://github.com/SFML/SFML) + [imgui](https://github.com/ocornut/imgui/) + [box2d](https://github.com/erincatto/box2d) &lt;3-->
-
-#### [p2pg](https://github.com/sarahkittyy/p2pg)
-
-A 2d top-down multiplayer combat game with a simple gameplay loop. Plays in browser on both mobile and PC.
-
-Connections are fully peer-2-peer. Uses deterministic gameplay logic to rollback and resimulate the game when opponents go out of sync, leading to a very smooth real-time experience.
-
-Written in rust with [bevy](bevyengine.org/), and [ggrs](https://github.com/gschup/ggrs/), and compiled to WASM.
-
-<img src="https://github.com/sarahkittyy/p2pg/raw/main/assets/screenshot.png" width="500" />
 
 ## contact
 
