@@ -1,8 +1,8 @@
 ## hi!! i'm sarah (she/her, 22)
 
-welcome to my github!! i started developing around first year of HS as a hobby and it **really** stuck with me ^^;
+welcome to my github!! i started developing around first year of HS as a hobby and it's been a huge passion of mine ever since.
 
-you can take a look around if you want, some of my repos are pretty silly but here's a few of my favs!
+i love backend development, rust, C, typescript, i love to make games and libraries, abstractions, and every new project is a learning experience.
 
 ## notable repos!
 
