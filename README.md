@@ -59,4 +59,4 @@ made with cpp + opengl &lt;3
 
 ## contact
 
-you can email me @ sarahohlin1@gmail.com or add me on discord as `sarahkittyy`
+you can email me sarah@fluffycat.gay
