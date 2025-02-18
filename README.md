@@ -1,4 +1,4 @@
-## hi!! i'm sarah (she/her, 22)
+## hi!! i'm sarah
 
 welcome to my github!! i started developing around first year of HS as a hobby and it's been a huge passion of mine ever since.
 
